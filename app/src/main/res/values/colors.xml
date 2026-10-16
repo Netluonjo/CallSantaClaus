@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="christmas_red">#C62828</color>
+    <color name="christmas_dark_red">#8E0000</color>
+    <color name="christmas_green">#1B5E20</color>
+    <color name="christmas_gold">#FFD54F</color>
+    <color name="christmas_cream">#FFF8E7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

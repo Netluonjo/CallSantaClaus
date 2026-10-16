@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mô Phỏng Trò chuyện Với Santa</string>
+    <string name="app_subtitle">Chat, gọi video với Santa</string>
+    <string name="santa_name">Ông Già Noel 🎅</string>
+    <string name="santa_phone">+1 (800) SANTA-POLE</string>
+    <string name="santa_status">Đang trực tuyến tại Bắc Cực ❄️</string>
+</resources>
